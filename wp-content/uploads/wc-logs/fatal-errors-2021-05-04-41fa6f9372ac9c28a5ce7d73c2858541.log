@@ -1,0 +1,10 @@
+2021-05-04T05:47:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecom\wordpress\wp-admin\includes\file.php on line 16
+
+2021-05-04T05:48:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecom\wordpress\wp-content\themes\astra\inc\builder\type\footer\primary-footer\class-astra-primary-footer-component-loader.php on line 12
+
+2021-05-04T05:49:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecom\wordpress\wp-content\plugins\elementor\core\kits\documents\kit.php on line 11
+
+2021-05-04T05:49:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecom\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-05-04T05:54:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecom\wordpress\wp-content\themes\astra\inc\lib\batch-processing\class-astra-wp-async-request.php on line 8
+
